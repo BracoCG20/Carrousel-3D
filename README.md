@@ -54,8 +54,6 @@ Si deseas que otros contribuyan a tu proyecto, explica cómo pueden hacerlo.
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Desarrollado por Cristian Braco. Todos los derechos reservados.
 
 ---
-
-_Siéntete libre de contactarme si tienes alguna pregunta._
